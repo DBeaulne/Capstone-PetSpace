@@ -1,0 +1,5 @@
+Home Page banner photo
+
+Photo by <a href="https://unsplash.com/@chewy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chewy</a> on <a href="https://unsplash.com/photos/man-in-white-t-shirt-sitting-beside-white-and-black-short-coated-dog-gWzTum_yMCg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Icons from SVGRepo @ https://www.svgrepo.com/
