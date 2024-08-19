@@ -324,3 +324,7 @@ Parameters:
 - token: JWT of the logged in user
 - rating: number rating out of 5 with increments of 0.5 points
 
+
+## Project Kickoff
+
+- slight modification to bridge table name only
