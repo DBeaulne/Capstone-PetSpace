@@ -93,27 +93,21 @@ External API's
 ### Mockups
 
 #### Home Page
-
 ![](PetSpace-HomePage.png)
 
 #### AI Assitant
-
 ![](PetSpace-AI-Assistant.png)
 
 #### Log-in Page
-
 ![](PetSpace-Log-in.png)
 
 #### Register Page
-
-![](PetSpace-Register.pgn)
+![](PetSpace-Register.png)
 
 #### Search Results Page
-
 ![](PetSpace-Search-Results.png)
 
 ### Data
-
 ![](PetSpace-sql-diagram-v2.png)
 
 ### Endpoints
@@ -327,4 +321,4 @@ Parameters:
 
 ## Project Kickoff
 
-- slight modification to bridge table name only
+- slight modification to bridg
