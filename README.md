@@ -93,22 +93,28 @@ External API's
 ### Mockups
 
 #### Home Page
+
 ![](PetSpace-HomePage.png)
 
 #### AI Assitant
+
 ![](PetSpace-AI-Assistant.png)
 
 #### Log-in Page
+
 ![](PetSpace-Log-in.png)
 
 #### Register Page
+
 ![](PetSpace-Register.png)
 
 #### Search Results Page
+
 ![](PetSpace-Search-Results.png)
 
 ### Data
-![](PetSpace-sql-diagram-v2.png)
+
+![](PetSpace-sql-diagram-v2_02.png)
 
 ### Endpoints
 
@@ -318,7 +324,6 @@ Parameters:
 - token: JWT of the logged in user
 - rating: number rating out of 5 with increments of 0.5 points
 
-
 ## Project Kickoff
 
-- slight modification to bridg
+- slight modification to bridge table naming
